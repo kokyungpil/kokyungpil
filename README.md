@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=color=skyblue&height=500&section=header&text=안녕하세요&fontSize=90)
+![header](https://capsule-render.vercel.app/api?color=skyblue&height=500&section=header&text=안녕하세요&fontSize=90)
 
 
 <!--
