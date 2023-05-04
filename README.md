@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-<a href="https://www.naver.com/" target="_blank"><img src="https://img.shields.io/badge/😄?style=flat-square&logo=네이버&logoColor=white"/></a>
+#0B2C4A #0B2C4A #0B2C4A #0B2C4A #0B2C4A
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-As [John Gruber] writes on the [Markdown site][df1]
-
+#FF9900 #FF9900 #FF9900 #FF9900 #FF9900
 
 
 <!--
