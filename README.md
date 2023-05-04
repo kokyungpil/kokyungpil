@@ -1,6 +1,6 @@
-https://capsule-render.vercel.app/api?
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=500&section=header&text=안%20녕&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=timeauto&height=500&section=header&text=안%20녕&fontSize=90" />
+
 
 <!--
 **kokyungpil/kokyungpil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
