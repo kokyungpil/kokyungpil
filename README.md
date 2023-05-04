@@ -1,5 +1,19 @@
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=300&section=header&text=안녕하세요&animation=blinking&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=150&section=header&text=안녕하세요&animation=blinking&fontSize=50)
+
+## 자기소개
+
+- Name  : 고경필
+- born  : 1997(27) 
+- Email : devil1446@naver.com
+
+## 학력
+
+- 태원고등학교 졸업 
+- 인하공업전문대학(재료공학과) 졸업
+- 한국폴리텍대학 성남캠퍼스(인공지능소프트웨어과) 하이테크과정 수료중
+
+
 
 
 <!--
