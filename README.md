@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Sylinder&color=random&height=130&section=header&text=안녕하세요&animation=blinking&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=130&section=header&text=안녕하세요&animation=blinking&fontSize=30)
 
 ## 자기소개
 
