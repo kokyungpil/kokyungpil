@@ -4,7 +4,7 @@
 ## 자기소개
 
 - Name  : 고경필
-- born  : 1997(27)
+- born   : 1997(27)
 - Email : devil1446@naver.com
 
 ## 학력
