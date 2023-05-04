@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=green&height=300&section=header&text=안녕&안녕&안녕&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=300&section=header&text=안녕&안녕&안녕&fontSize=90)
 
 
 <!--
