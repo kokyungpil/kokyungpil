@@ -1,10 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=150&section=header&text=안녕하세요&animation=blinking&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=120&section=header&text=안녕하세요&animation=blinking&fontSize=50)
 
 ## 자기소개
 
 - Name  : 고경필
-- born  : 1997(27) 
+- born  : 1997(27)
 - Email : devil1446@naver.com
 
 ## 학력
